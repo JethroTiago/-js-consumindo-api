@@ -4,7 +4,7 @@ Repositório do treinamento "<strong>JavaScript</strong>: <strong>Consumindo</st
 
 ### Deploy:
 
--- soon --
+https://js-consumindo-api-five.vercel.app/
 
 ## Project View / Visualização do projeto:
 
