@@ -1,5 +1,7 @@
 # JavaScript - Consumindo dados de uma API
 
+"<strong>JavaScript</strong>: <strong>Consuming</strong> and <strong>treating</strong> data from an <strong>API</strong>" training repository from [Alura Cursos Online](https://www.alura.com.br/).
+
 Repositório do treinamento "<strong>JavaScript</strong>: <strong>Consumindo</strong> e <strong>tratando</strong> dados de uma <strong>API</strong>" da [Alura Cursos Online](https://www.alura.com.br/).
 
 ### Deploy:
@@ -11,6 +13,9 @@ https://js-consumindo-api-five.vercel.app/
 ![Print](https://user-images.githubusercontent.com/103612874/219455556-37ac9fe0-a5b3-4ace-9c4d-1dd61bfd03fb.jpg)
 
 ## How it works / Como Funciona:
+
+A form created to train API consumption and data handling.
+When the user registers and enters the zip code, it will "pull" the street name, neighborhood, city name and state automatically, consuming the ViaCEP API.
 
 Um formulário criado para treinar consumo de API e tratamento de dados.
 Quando o usuário se cadastrar e colocar o CEP, vai "puxar" já o nome da rua, o bairro, o nome da cidade e o estado automaticamente, consumindo a API do ViaCEP.
