@@ -6,10 +6,14 @@ Repositório do treinamento "<strong>JavaScript</strong>: <strong>Consumindo</st
 
 -- soon --
 
+## Project View / Visualização do projeto:
+
+![Print](https://user-images.githubusercontent.com/103612874/219455556-37ac9fe0-a5b3-4ace-9c4d-1dd61bfd03fb.jpg)
+
 ## How it works / Como Funciona:
 
 Um formulário criado para treinar consumo de API e tratamento de dados.
-Quando o usuário se cadastrar e colocar o CEP, vai puxar já o nome da rua, o nome da cidade e o estado automaticamente, utilizando a API do ViaCEP.
+Quando o usuário se cadastrar e colocar o CEP, vai "puxar" já o nome da rua, o bairro, o nome da cidade e o estado automaticamente, consumindo a API do ViaCEP.
 
 ## Development languages or frameworks / Linguagens e estruturas de desenvolvimento:
 
@@ -17,9 +21,10 @@ Quando o usuário se cadastrar e colocar o CEP, vai puxar já o nome da rua, o n
 
 ## Learnings / Aprendizados:
 
-* Consumo da API do ViaCEP com o fetch API
+* Consuming the ViaCEP API with the fetch API
 * async await
-* JavaScript assíncrono
+* Asynchronous JavaScript
+* DOM Manipulation
 
 ## Thanks / Agradecimentos:
 
