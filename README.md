@@ -1,4 +1,4 @@
-# Projeto 40
+# JavaScript - Consumindo dados de uma API
 
 Repositório do treinamento "<strong>JavaScript</strong>: <strong>Consumindo</strong> e <strong>tratando</strong> dados de uma <strong>API</strong>" da [Alura Cursos Online](https://www.alura.com.br/).
 
